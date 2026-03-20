@@ -1,6 +1,6 @@
 # Ryker D. Ballash
 ## About me
-I'm Ryker Ballash, a Programmer, AI Engineer, and Web developer. I've been in the fields since around 2024, and I've loved everything about it so far. I do a lot of project around the side and for fun, and I'm most definitely not against collaborating on projects as long as they interest me enough. Coding is, while a profession, also a passion of mine that I've been pursuing for a long time. I actually started in Scratch, and I thought it was the coolest thing in the world. While that led me to general programming in things like Java and C++, things like AI and even website creation naturally followed suit.
+I'm Ryker Ballash, a Programmer, AI Engineer, and Web developer. I've been in the fields since around 2024, and I've loved everything about it so far. I do a lot of projects around the side and for fun, and I'm most definitely not against collaborating on projects as long as they interest me enough. Coding is, while a profession, also a passion of mine that I've been pursuing for a long time. I actually started in Scratch, and I thought it was the coolest thing in the world. While that led me to general programming in things like Java and C++, things like AI and even website creation naturally followed suit.
 ## What I do
 My main job is being a Programmer. I know
 - Java
