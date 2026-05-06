@@ -5,6 +5,7 @@ I'm Ryker Ballash, a Programmer, AI Engineer, and Web developer. I've been in th
 My main job is being a Programmer. I know
 - Java
 - Python
+- C++
 
 Along with web development, in which I can do
 - HTML/CSS
