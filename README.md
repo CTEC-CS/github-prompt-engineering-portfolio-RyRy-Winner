@@ -11,7 +11,6 @@ Along with web development, in which I can do
 - HTML/CSS
 - JavaScript
 
-I also dabble in C++, something I'm actively working on learning.
 
 ## Contacts
 You can always shoot me an email at [ryker.ballash@gmail.com](mailto:ryker.ballash@gmail.com). I may take a while to respond there though, so you can also [message me on Discord](https://discord.com/users/ryrywinner) and you should be able to get in touch within 1-4 days.
