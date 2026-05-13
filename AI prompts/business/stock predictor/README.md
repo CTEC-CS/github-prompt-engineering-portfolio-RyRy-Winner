@@ -6,4 +6,4 @@ Thos prompt is a stock prediction agent. It's built to make valuations of compan
 
 # ⚠️WARNING!⚠️ 
 
- Do NOT blindly trust AI with your financial decisions. Always fact-check AI before making these decisions.
+ <span style="color:red">Do NOT blindly trust AI with your financial decisions. Always fact-check AI before making these decisions.</span>
