@@ -1,1 +1,1 @@
-
+I’m making a video essay for my [channel type (animation, talk show, etc.)] channel @[channel] on Youtube, but I’m having a hard time finding talking points. It’s going to be about [topic], and I’ll be coming from the viewpoint of [viewpoint]. One of my talking points I already have is [talking point]. Can you help me brainstorm more? Only tell me the points I could add, and then give a 3-5 sentence explanation for each one. Bring up as many points as possible (I don’t mind how many)- I’ll pick my favorites later. Don’t include anything other than this in your response.
