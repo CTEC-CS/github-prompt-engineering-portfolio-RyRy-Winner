@@ -1,0 +1,1 @@
+I’ve been trying to learn more about how to [skill] recently, but I’ve been having a hard time with [specific part of skill (Or just say “most of it” for general help)]. Can you give me a step-by-step numbered list for it, giving each list item a memorable title as well? Add as many things as you need- I want to know as much as I can. DO NOT have any of the AI fluff stuff though.
