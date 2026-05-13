@@ -1,0 +1,1 @@
+I’m thinking about buying stock in [company1], but I don’t know if it’s a good time to do it. I have [money] dollars I’m willing to spend, should I put it in [company1] or a similar company? Please give me bulleted and detailed explanations for each option I have.
